@@ -4,7 +4,7 @@
 #property link "http://profitrobots.com"
 #property strict
 
-input string   Advanced_Key             = ""; // Key
+input string   Advanced_Key             = ""; // Key 
 input string   Comment2                 = "- You can get a key via @profit_robots_bot Telegram Bot. Visit ProfitRobots.com for discord/other platform keys -";
 
 #import "AdvancedNotificationsLib.dll"
